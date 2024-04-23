@@ -1,0 +1,9 @@
+# model
+https://civitai.com/api/download/models/435001[animaPencilXL_v300.safetensors]
+
+# lora
+https://huggingface.co/naki123/clsdw/resolve/main/blue_archive_all_v2.safetensors[blue_archive_all_v2.safetensors]
+https://huggingface.co/naki123/clsdw/blob/main/genshin_pony_v2.safetensors[genshin_pony_v2.safetensors]
+https://huggingface.co/naki123/clsdw/blob/main/zhenshi.safetensors[zhenshi.safetensors]
+
+# extension
