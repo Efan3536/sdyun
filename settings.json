@@ -1,0 +1,23 @@
+{
+  "Model": "none",
+  "Model_Num": "",
+  "Inpainting_Model": false,
+  "Vae": "3.Blessed2.vae",
+  "Vae_Num": "",
+  "latest_webui": true,
+  "latest_exstensions": true,
+  "detailed_download": "off",
+  "controlnet": "none",
+  "controlnet_Num": "",
+  "commit_hash": "",
+  "optional_huggingface_token": "",
+  "ngrok_token": "",
+  "zrok_token": "kLxL53L0Xew8",
+  "commandline_arguments": "--listen --enable-insecure-extension-access --theme dark --no-half-vae --disable-console-progressbars --xformers --skip-torch-cuda-test",
+  "Model_url": "",
+  "Vae_url": "",
+  "LoRA_url": "",
+  "Embedding_url": "",
+  "Extensions_url": "",
+  "custom_file_urls": "https://raw.githubusercontent.com/Efan3536/sdyun/main/sd.txt"
+}
