@@ -7,18 +7,10 @@ https://huggingface.co/naki123/clsdw/blob/main/genshin_pony_v2.safetensors[gensh
 https://huggingface.co/naki123/clsdw/blob/main/zhenshi.safetensors[zhenshi.safetensors]
 
 # extension
-https://github.com/Gourieff/sd-webui-reactor
-https://github.com/portu-sim/sd-webui-bmab
-https://github.com/Bing-su/adetailer
 https://github.com/hako-mikan/sd-webui-supermerger
-https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper
 https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
-https://github.com/gutris1/huggingface
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
-https://github.com/etherealxx/batchlinks-webui
-https://github.com/IDEA-Research/DWPose
-https://github.com/layerdiffusion/sd-forge-layerdiffusion
 https://github.com/a2569875/stable-diffusion-webui-composable-lora
 https://github.com/hako-mikan/sd-webui-regional-prompter
 https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
