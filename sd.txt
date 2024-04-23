@@ -1,11 +1,13 @@
 # model
 https://civitai.com/api/download/models/435001[animaPencilXL_v300.safetensors]
 https://civitai.com/api/download/models/461550[tPonynai3_v4.safetensors]
+https://huggingface.co/naki123/clsdw/resolve/main/picxReal_10.safetensors[picxReal_10.safetensors]
 
 # lora
 https://huggingface.co/naki123/clsdw/resolve/main/blue_archive_all_v2.safetensors[blue_archive_all_v2.safetensors]
 https://huggingface.co/naki123/clsdw/blob/main/genshin_pony_v2.safetensors[genshin_pony_v2.safetensors]
 https://huggingface.co/naki123/clsdw/blob/main/zhenshi.safetensors[zhenshi.safetensors]
+https://huggingface.co/naki123/clsdw/blob/main/StS_age_slider_v1_initial_release.safetensors[StS_age_slider_v1_initial_release.safetensors]
 
 # vae
 
