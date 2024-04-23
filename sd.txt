@@ -6,6 +6,10 @@ https://huggingface.co/naki123/clsdw/resolve/main/blue_archive_all_v2.safetensor
 https://huggingface.co/naki123/clsdw/blob/main/genshin_pony_v2.safetensors[genshin_pony_v2.safetensors]
 https://huggingface.co/naki123/clsdw/blob/main/zhenshi.safetensors[zhenshi.safetensors]
 
+# vae
+
+#embed
+
 # extension
 https://github.com/hako-mikan/sd-webui-supermerger
 https://github.com/zanllp/sd-webui-infinite-image-browsing
