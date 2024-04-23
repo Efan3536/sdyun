@@ -279,7 +279,10 @@
     "interrupt_after_current": true,
     "localization": "zh-Hans (Stable) [vladmandic]",
     "quicksettings_list": [
-        "sd_model_checkpoint"
+        "sd_model_checkpoint",
+        "sd_vae",
+        "CLIP_stop_at_last_layers",
+        "clean_temp_dir_at_start"
     ],
     "ui_tab_order": [],
     "hidden_tabs": [],
