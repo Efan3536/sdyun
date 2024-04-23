@@ -1,5 +1,6 @@
 # model
 https://civitai.com/api/download/models/435001[animaPencilXL_v300.safetensors]
+https://civitai.com/api/download/models/461550[tPonynai3_v4.safetensors]
 
 # lora
 https://huggingface.co/naki123/clsdw/resolve/main/blue_archive_all_v2.safetensors[blue_archive_all_v2.safetensors]
@@ -8,7 +9,7 @@ https://huggingface.co/naki123/clsdw/blob/main/zhenshi.safetensors[zhenshi.safet
 
 # vae
 
-#embed
+# embed
 
 # extension
 https://github.com/hako-mikan/sd-webui-supermerger
