@@ -6,7 +6,7 @@
   "Vae_Num": "",
   "latest_webui": true,
   "latest_exstensions": true,
-  "detailed_download": "off",
+  "detailed_download": "on",
   "controlnet": "none",
   "controlnet_Num": "",
   "commit_hash": "",
