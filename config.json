@@ -67,14 +67,14 @@
     "tac_colormap": "{\n    \"danbooru\": {\n        \"-1\": [\"red\", \"maroon\"],\n        \"0\": [\"lightblue\", \"dodgerblue\"],\n        \"1\": [\"indianred\", \"firebrick\"],\n        \"3\": [\"violet\", \"darkorchid\"],\n        \"4\": [\"lightgreen\", \"darkgreen\"],\n        \"5\": [\"orange\", \"darkorange\"]\n    },\n    \"e621\": {\n        \"-1\": [\"red\", \"maroon\"],\n        \"0\": [\"lightblue\", \"dodgerblue\"],\n        \"1\": [\"gold\", \"goldenrod\"],\n        \"3\": [\"violet\", \"darkorchid\"],\n        \"4\": [\"lightgreen\", \"darkgreen\"],\n        \"5\": [\"tomato\", \"darksalmon\"],\n        \"6\": [\"red\", \"maroon\"],\n        \"7\": [\"whitesmoke\", \"black\"],\n        \"8\": [\"seagreen\", \"darkseagreen\"]\n    }\n}",
     "tac_refreshTempFiles": "Refresh TAC temp files",
     "outdir_samples": "",
-    "outdir_txt2img_samples": "/root/By_bilibili-Cccc_emm/output/txt2img-images",
-    "outdir_img2img_samples": "/root/By_bilibili-Cccc_emm/output/img2img-images",
-    "outdir_extras_samples": "/root/By_bilibili-Cccc_emm/output/extras-images",
+    "outdir_txt2img_samples": "/content/drive/MyDrive/Outputs/txt2img-images",
+    "outdir_img2img_samples": "/content/drive/MyDrive/Outputs/img2img-images",
+    "outdir_extras_samples": "/content/drive/MyDrive/Outputs/extras-images",
     "outdir_grids": "",
-    "outdir_txt2img_grids": "/root/By_bilibili-Cccc_emm/output/txt2img-grids",
-    "outdir_img2img_grids": "/root/By_bilibili-Cccc_emm/output/img2img-grids",
-    "outdir_save": "/root/By_bilibili-Cccc_emm/log/images",
-    "outdir_init_images": "/root/By_bilibili-Cccc_emm/output/init-images",
+    "outdir_txt2img_grids": "/content/drive/MyDrive/Outputs/txt2img-grids",
+    "outdir_img2img_grids": "/content/drive/MyDrive/Outputs/img2img-grids",
+    "outdir_save": "/content/drive/MyDrive/log/images",
+    "outdir_init_images": "/content/drive/MyDrive/Outputs/init-images",
     "samples_save": true,
     "samples_format": "png",
     "samples_filename_pattern": "",
@@ -190,7 +190,7 @@
     "emphasis": "Original",
     "enable_batch_seeds": true,
     "comma_padding_backtrack": 20,
-    "CLIP_stop_at_last_layers": 1,
+    "CLIP_stop_at_last_layers": 2,
     "upcast_attn": false,
     "randn_source": "GPU",
     "tiling": false,
@@ -281,8 +281,7 @@
     "quicksettings_list": [
         "sd_model_checkpoint",
         "sd_vae",
-        "CLIP_stop_at_last_layers",
-        "clean_temp_dir_at_start"
+        "CLIP_stop_at_last_layers"
     ],
     "ui_tab_order": [],
     "hidden_tabs": [],
@@ -373,7 +372,7 @@
     "tac_frequencyMaxAge": 30,
     "tac_frequencyRecommendCap": 10,
     "tac_frequencyIncludeAlias": false,
-    "additional_networks_extra_lora_path": "",
+    "additional_networks_extra_lora_path": "/root/sdw/models/Lora/",
     "additional_networks_sort_models_by": "name",
     "additional_networks_reverse_sort_order": false,
     "additional_networks_model_name_filter": "",
@@ -385,7 +384,7 @@
     "additional_networks_max_top_tags": 20,
     "additional_networks_max_dataset_folders": 20,
     "ad_max_models": 2,
-    "ad_extra_models_dir": "",
+    "ad_extra_models_dir": "/root/sdw/models/adetailer/",
     "ad_save_previews": false,
     "ad_save_images_before": false,
     "ad_only_seleted_scripts": true,
@@ -503,7 +502,7 @@
     "tagger_repl_us_excl": "0_0, (o)_(o), +_+, +_-, ._., <o>_<o>, <|>_<|>, =_=, >_<, 3_3, 6_9, >_o, @_@, ^_^, o_o, u_u, x_x, |_|, ||_||",
     "tagger_escape": false,
     "tagger_batch_size": 1024,
-    "tagger_hf_cache_dir": "/root/sdw/models/interrogators",
+    "tagger_hf_cache_dir": "/root/sdw/models/interrogators/",
     "refiner_switch_by_sample_steps": false,
     "extra_networks_tree_view_style": "Dirs",
     "extra_networks_tree_view_default_width": 180.0,
@@ -559,5 +558,11 @@
     "canvas_zoom_inpaint_brushcolor": "#000000",
     "canvas_zoom_disabled_functions": [
         "Overlap"
+    ],
+    "controlnet_control_type_dropdown": false,
+    "state_ui": [
+        "Reset Button",
+        "Import Button",
+        "Export Button"
     ]
 }
